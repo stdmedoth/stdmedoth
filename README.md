@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=stdmedoth&style=flat-square&color=blue" alt="stdmedoth"/>
 </div>
 
-<h1 align="center">Olá, eu sou Calisto 👋</h1>
+<h1 align="center">Olá, eu me chamo João Calisto 👋</h1>
 <h3 align="center">Full-stack developer do Brasil.</h3>
 
 <p align="center">
