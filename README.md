@@ -1,50 +1,77 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBkN8YJvHQvCbFV/giphy.gif" width="100"/>
-</div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stdmedoth&style=flat-square&color=blue" alt="stdmedoth"/>
-</div>
-
-<h1 align="center">Olá, eu me chamo João Calisto 👋</h1>
-<h3 align="center">Full-stack developer do Brasil.</h3>
-
-<p align="center">
-  Compartilho meu conhecimento sobre desenvolvimento web, programação e tecnologia, além de estar sempre aprendendo coisas novas!
-</p>
-
----
-
-<div align="center">
-  <h3>Conecte-se comigo:</h3>
-  <a href="https://linkedin.com/in/calistu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>Minhas habilidades e tecnologias:</h3>
-  <p>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-    <a href="https://www.gtk.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gtk/gtk-original.svg" alt="GTK" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-    <a href="https://mariadb.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-    <a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40"/> </a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h3>Estatísticas do GitHub:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=stdmedoth&show_icons=true&locale=en&theme=tokyonight" alt="Estatísticas do GitHub" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stdmedoth&theme=tokyonight" alt="Sequência de Contribuições" width="49%"/>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="Hi There"/>  
+  <h1 align="center">Olá, eu sou João Calisto 👋</h1>
+  <h3 align="center">Desenvolvedor Full-stack & Estudante de Física Computacional</h3>
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdmedoth&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" width="49%"/>
+
+  <p align="center">
+    <a href="https://github.com/stdmedoth">
+      <img src="https://komarev.com/ghpvc/?username=stdmedoth&style=flat-square&color=blue" alt="Profile Views"/>
+    </a>
+  </p>
+
+  <p align="center">
+    Sou desenvolvedor PHP/Laravel com foco em análise de dados e performance. <br/>
+    Atualmente cursando <b>Física Computacional na USP</b>, unindo rigor matemático com engenharia de software.
+  </p>
+
+  <div align="center">
+    <a href="https://linkedin.com/in/calistu" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:jovictor210@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
+</div>
+
+<hr/>
+
+### 🛠️ Tech Stack
+
+**Linguagens de Programação**
+<div style="display: inline_block">
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+
+<br/>
+
+**Backend & Banco de Dados**
+<div style="display: inline_block">
+  <img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="MariaDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />
+</div>
+
+<br/>
+
+**Frontend**
+<div style="display: inline_block">
+  <img align="center" alt="Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Vuetify" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+</div>
+
+<br/>
+
+**DevOps & Ferramentas**
+<div style="display: inline_block">
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=stdmedoth&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stdmedoth&theme=tokyonight&hide_border=true&background=0D1117" alt="Sequência de Contribuições" width="48%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdmedoth&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%"/>
 </div>
