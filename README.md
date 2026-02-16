@@ -68,10 +68,4 @@
 
 <hr/>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=stdmedoth&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stdmedoth&theme=tokyonight&hide_border=true&background=0D1117" alt="Sequência de Contribuições" width="48%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdmedoth&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%"/>
-</div>
+
